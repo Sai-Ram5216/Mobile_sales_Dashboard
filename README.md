@@ -8,8 +8,7 @@ The dashboard analyzes mobile phone sales data to understand sales performance, 
 It helps identify key insights such as top-performing brands, sales distribution across cities, customer ratings, and preferred payment methods.
 
 ## Project Video
-Watch the complete project video here:
-(Dashboard project.mp4)
+[Watch the Project Video](./Dashboard project.mp4)
 
 
 ## Dashboard Features
